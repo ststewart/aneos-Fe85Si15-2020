@@ -6,8 +6,6 @@ ANEOS IRON ALLOY (Fe85Si15) MODEL<br>
 
 Sarah T. Stewart. (2020, May 30). Equation of State Model Fe85Si15-ANEOS: Development and documentation (Version SLVTv0.2G1). Zenodo. http://doi.org/10.5281/zenodo.3866550<p>
 
-Doi number in README in https://github.com/ststewart/aneos-Fe85Si15-2020/<p>
-
 Open ironalloy_aneos.ipynb or ironalloy_aneos.html<p>
 
 Sarah T. Stewart<br>
